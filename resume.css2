@@ -1,0 +1,50 @@
+.resume {
+    background-color: ivory;
+    box-sizing: border-box;
+    border: 3px solid #05386B;
+    position: relative;
+    top: 20px;
+}
+
+.resume hr {
+    background-color:#05386B;
+    height: 2px;
+}
+
+.resume h2{
+   position: relative;
+   left: 360px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 40px;
+   font-style: oblique;
+}
+
+.contact-info ul, .contact-info li {
+    display: inline;
+    position: relative;
+    left: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding: 0 5px;
+}
+
+.resume h3 {
+    padding: 5px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.resume p {
+    position: relative;
+    left: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.skills ul, .skills li {
+    position: relative;
+    left: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
