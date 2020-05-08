@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title>My Resume</title>
+        <link href="styles.css" type="text/css" rel="stylesheet">
+        <link href="resume.css" type="text/css" rel="stylesheet">
+        <meta charset="UTF-8">
+    </head>
+    <!-- Website's Header -->
+    <header class="intro">
+        <!-- Navigation List -->
+            <nav>
+                <a href="index1.html"><li>About Me</li></a>
+                <a href="resume.html"><li>Resume</li></a>
+                <a href="military.html"><li>Military</li></a>
+            </nav><hr> 
+            <h1>Will Oliver's Resume</h1>
+        </header>
+    <body>
+      <section class="resume">
+        <h2>Will Oliver</h2><hr>
+
+        <div class="contact-info">
+            <ul>
+                <li>Johnson City, TN</li>
+                <li>(304)-240-9048</li>
+                <li>wjoliver@my.milligan.edu</li>
+            </ul>
+        </div>
+
+        <div class="work-history">
+        <h3>Work History</h3>
+        <p>Kroger, 2019-Current</p>
+        <p>Logan's Steak House, 2019</p>
+        <p>Milligan College Work Study, 2016-2020</p>
+        </div>
+
+        <div class="skills">
+            <h3>Skills</h3>
+            <ul>
+                <li>Teamwork</li>
+                <li>Leadership</li>
+                <li>Communication</li>
+                <li>Computer Skills</li>
+                <li>Time Management</li>
+            </ul>
+        </div>
+
+        <div>
+            <h3>Awards/Honors</h3>
+            <p>Dean List three consecutive years.</p>
+            <p>Part of Milligan College Varsity Baseball Team</p>
+            <p>Champion of Character, 2019</p>
+        </div>
+
+        <div class="education">
+            <h3>Education</h3>
+            <p><strong>Milligan College</strong> - Johnson City, TN<p>
+            <p><strong>Bachelor of Science:</strong> Business Administration</p>
+            <p><strong>Concentration:</strong> Health Care Management</p>
+            <p><strong>GPA: </strong>3.51</p>
+        </div>
+      </section>
+
+    </body>
+
+    <!-- File's footer -->
+    <hr><footer>
+        <p>Contact Info: wjoliver@my.milligan.edu</p>
+    </footer>
+</html>
