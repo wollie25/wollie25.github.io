@@ -1,0 +1,116 @@
+<html>
+    <head>
+        <title>Military Life</title>
+        <link href="styles.css" type="text/css" rel="stylesheet">
+        <link href="military.css" type="text/css" rel="stylesheet">
+        
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+    <!-- Website's Header -->
+        <header class="intro">
+        <!-- Navigation List -->
+            <nav>
+                <a href="index1.html"><li>About Me</li></a>
+                <a href="resume.html"><li>Resume</li></a>
+                <a href="military.html"><li>Military</li></a>
+            </nav><hr> 
+            <h1>Will Oliver's Life Plans</h1>
+        </header>
+
+      <section class="military">
+        <article class="future-plans">
+            <h2>Future Plans</h2>
+            <p>I plan to enter the military in the fall of 2020. I am also getting
+                married in August of 2020. I met my fiancee Lily Hollandsworth at 
+                Milligan College. Lily graduated from Milligan in May 2019 with a 
+                double major in Accounting & Business Administration. She is currently
+                employ at Ballad.</p>
+                <img src="https://twt-thumbs.washtimes.com/media/image/2017/03/08/US_Army_Eruope_c0-25-640-398_s885x516.jpg?4d33e2d8063cd6cd59243af4bb8556158e664b88" alt="USA Military">
+        </article>
+        <br>
+
+        <article class="military-plans">
+            <h2>Military Plans</h2>
+            <p>My plan for the military is to join the United States Air Force. 
+                The United States Air Force is is the aerial warfare service 
+                branch of the United States Armed Forces. It is one of the eight 
+                U.S. uniformed services. If you want to know more about the U.S 
+                Air Force click on this link: 
+                <a target="_blank" href="https://www.airforce.com">U.S Air Force.</a></p>
+            <p>My plan in the Air Force is to be part of their special operations.
+                Special operations forces performed direct action missions, 
+                combat search and rescue, infiltration, exfiltration, air base ground 
+                defense, air interdiction, special reconnaissance, close air support, 
+                psychological operations, and helicopter air refuelings. If you want 
+                to know more about special operations click on this link: 
+                <a target="_blank" href="https://en.wikipedia.org/wiki/Air_Force_Special_Operations_Command">Special Operations</a>
+            </p>
+            <img alt="United States Air Force Logo" class="airforce-logo" src="https://lh3.googleusercontent.com/proxy/JdRigQYzufimn1GWRXvVfT8kLXgeRh6DQr3Xrm7ScG5qbtySJXXwbUSt5rzok6PzLHakWtbTYmprdbMY00CgBvAFbqvmHgYV6ksJ5IkkgJIrQEAHa-PSMDiiCi0BYXbHpoYgcYMmkbTvYu8Wu9oSzaDhKHotHnC7PMj6TcR0jCrYuxY">
+        </article>
+
+        <h2>List of My Favorite Weapons</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th scope="col">Weapons</th>
+                    <th scope="col">Description</th>
+                </tr>
+                
+            </thead>
+
+            <tbody>
+                <tr>
+                    <th scope="row">M4/M4A1 CARBINE</th>
+                    <td>The M4 carbine is the standard weapon for brigade combat teams. 
+                        It is lightweight, mobile and adaptable and can be mounted with a M203A2 
+                        grenade launcher, M320A1 grenade launcher or an M26 modular accessory 
+                        shotgun system.</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">M24 SNIPER WEAPON SYSTEM</th>
+                    <td>The M24 sniper weapon system is a 7.62mm bolt-action, 
+                        six-shot rifle that chambers 7.62 x 51mm M118 long-range ammunition. </td>
+                </tr>
+
+                <tr>
+                    <th scope="row">M107 (LRSR)</th>
+                    <td>The .50-caliber M107 semi-automatic long-range sniper rifle is capable 
+                        of delivering precise, rapid fire on targets out to 2,000 meters.</td>
+                </tr>
+                
+                <tr>
+                    <th scope="row">MK19</th>
+                    <td>The MK19 grenade machine gun can deliver a heavy volume of accurate 
+                        and continuous fire against enemy personnel and lightly armored vehicles. 
+                        It primarily fires 40mm grenades, which explode on impact and affect a 
+                        radius of five meters.</td>
+                </tr>
+                
+                <tr>
+                    <th scope="row">M14 7.62MM</th>
+                    <td>The M14 7.62mm is a rack stock M14 rifle with an enhanced aluminum 
+                        billet stock, Mark 4 tactical scope, and cantilever mount. </td>
+                </tr>
+            </tbody>
+                
+            <tfoot>
+                <tr>
+                    <td colspan="2">If you want to know more about these weapons click on this link: 
+                        <a target="_blank" href="https://www.goarmy.com/about/army-vehicles-and-equipment/weapons.html">List of Weapons</a>
+                    </td>
+                </tr>
+            </tfoot>
+
+        </table>
+      </section>
+    </body>
+
+
+    <!-- File's footer -->
+    <hr><footer>
+        <p>Contact Info: wjoliver@my.milligan.edu</p>
+    </footer>
+</html>
