@@ -1,0 +1,62 @@
+.military {
+    background-color: #05386B;
+    box-sizing: border-box;
+    border: 3px solid;
+    position: relative;
+    top: 30px;
+}
+
+.military h2 {
+    color: white;
+    padding: 10px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-style: italic;
+
+}
+
+.military p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0 50px;
+    line-height: 2;
+}
+
+.military-plans a {
+    color: green;
+}
+
+table {
+    background-color: white;
+    border: 3px solid black;
+    box-sizing: border-box;
+    margin: 10px 40px;
+}
+
+tr, td {
+    border: 2px solid black;
+    padding: 2px 10px;
+    margin: 2px 10px;
+    color: #05386B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+th{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+tbody th {
+    border: 2px solid black;
+    padding: 2px 10px;
+    margin: 2px 10px;
+    color: #05386B;
+    font-size: 20px;
+}
+
+tfoot a {
+    color: green;
+}
